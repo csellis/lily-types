@@ -25,6 +25,6 @@
 			class="w-full px-4 py-2 rounded-md shadow-md"
 			placeholder="Press / to focus"
 		/>
-		<h1 class="text-6xl text-purple-400 mt-12 flex-1">{value}</h1>
+		<div class="text-6xl text-purple-400 mt-12 flex-1 break-words">{value}</div>
 	</div>
 </div>
